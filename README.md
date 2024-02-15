@@ -54,9 +54,8 @@ The module require the PUQVPNCP control panel with active license.
 
 ### Screenshot of the client area
 
-[![image-1700430344429.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700430344429.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700430344429.png)
+![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-WireGuard-VPN/assets/81689153/163f2cce-0830-4945-8438-8efb418f1c08)
 
-[![image-1700430111703.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700430111703.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700430111703.png)
 
 ### Screenshot of the Admin area
 
